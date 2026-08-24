@@ -1,0 +1,3 @@
+"Cohort","N","Signature","Endpoint","Odds_Ratio","CI_lower","CI_upper","P_value"
+"GSE70768",111,"MYLK–PRKCB–PDGFC","Gleason score",0.2256582,0.09547773,0.5333351,0.0006927785
+"TCGA-PRAD",455,"MYLK–PRKCB–PDGFC","Gleason score",0.7964547,0.712795,0.8899334,5.832804e-05
